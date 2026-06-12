@@ -29,8 +29,6 @@ These projects helped me practice concepts step by step and strengthen my techni
 Projects planned, developed, and completed independently.
 These projects show my ability to explore datasets, define problems, analyze data, build models, and communicate results.
 
-| Project     | Area                      | Tools  | Description                                |
-| ----------- | ------------------------- | ------ | ------------------------------------------ |
 ## 📊 Tableau & Data Visualization Projects
 
 | Project                                     | Area                                            | Tools   | Project Description                                                                                                                                                                                                                                                                                             | Dashboard                                                                                                                                                                                  | Report                           |
